@@ -1,0 +1,10 @@
+<suite name="SimpleTestsuite" verbose="1">
+<test name="SimpleTest">
+<classes>
+<class name="com.inflectra.spiratest.addons.testnglistener.samples.SimpleTest"/>
+</classes>
+</test>
+<listeners>
+<listener class-name="com.inflectra.spiratest.addons.testnglistener.SpiraTestListener"/>
+</listeners>
+</suite>

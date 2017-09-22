@@ -1,0 +1,208 @@
+@CHARSET "ISO-8859-1";
+
+html {
+	font-family: arial, georgia, palatino linotype, times new roman, serif;
+}
+
+body {
+	min-width: 1000px;
+	height: 100%;
+	overflow: auto;
+	border: 0;
+	background-color: #FFFFFF;
+	vertical-align: middle;
+	/* margin-left: 70px;
+	margin-right: 70px; */
+	padding-left: 10%;
+}
+
+* {
+	font-family: Arial, Helvetica;
+	font-size: 9pt;
+	padding: 0;
+	margin: 0;
+}
+
+.headertext {
+	color: #26415F;
+	font-weight: bold;
+	font-size: 12pt;
+	text-align: right;
+	vertical-align: middle;
+}
+
+.headertext1 {
+	color: #26415F;
+	font-weight: bold;
+	font-size: 10pt;
+	text-align: left;
+	vertical-align: middle;
+}
+
+.error {
+	color: red;
+	font-weight: bold;
+}
+
+.success {
+	color: #3AE840;
+	font-weight: bold;
+}
+
+.auto-style1 {
+	width: 8%;
+	word-break:break-all; 
+}
+
+.auto-style2 {
+	width: 15%;
+	word-break:break-all; 
+}
+.auto-style3 {
+	width: 20%;
+	word-break:break-all; 
+}
+.auto-style4 {
+	width: 15%;
+	word-break:break-all; 
+}
+
+.auto-style5 {
+	width: 20%;
+	word-break:break-all; 
+}
+
+.auto-style6 {
+	width: 15%;
+	word-break:break-all; 
+}
+
+.auto-style7 {
+	width: 7%;
+	word-break:break-all; 
+}
+
+.width100 {
+	width: 1000px;
+}
+
+.width30 {
+	width: 30%;
+}
+
+.width50 {
+	width: 50%;
+}
+
+.width70 {
+	width: 70%;
+}
+
+.width73 {
+	width: 73%;
+}
+
+.width27 {
+	width: 27%;
+}
+
+.width60 {
+	width: 60%;
+}
+
+.width40 {
+	width: 40%;
+}
+
+.width25 {
+	width: 25%;
+}
+.width20 {
+	width: 20%;
+}
+.green, a.green {
+	color: #12C909;
+	font-weight: bold;
+}
+
+.red, a.red {
+	color: #C3100A;
+	font-weight: bold;
+}
+
+.header {
+	color: blue;
+	padding: 8px;
+	text-align: left;
+	cursor: pointer;
+}
+
+th {
+	background-color: #275A77;
+	color: white;
+}
+
+th, td {
+	text-align: left;
+	padding: 6px;
+}
+
+table.reporttable tr:nth-child(even) {
+	background-color: #d9d9d9
+}
+
+table.reporttable tr:hover {
+	background-color: #a6a6a6
+}
+
+a:link,a:active {
+	text-decoration: none;
+}
+
+a:hover{
+	color: #0000ff;
+	text-decoration: underline;
+}
+a:visited{
+	color: #0000ff;
+}
+.bold {
+	font-weight: bold;
+}
+
+.rowBgColor {
+	bgcolor: #D7DBDD;
+}
+
+.caution, a.caution {
+	color: #FE9A2E;
+	font-weight: bold;
+}
+
+.blocked, a.blocked {
+	color: #929B06;
+	font-weight: bold;
+}
+
+.notrun, a.notrun {
+	color: #A6ACAF;
+	font-weight: bold;
+}
+img{
+	width:200px;
+	height:50px;
+}
+.releaseid {
+	color: #045A85;
+	font-weight: bold;
+}
+.headertext2 {
+	background-color: #4292C1;
+	font-weight: bold;
+	color: white;
+	height: 20px;
+	vertical-align: middle;
+}
+.blue{
+	color: #0000ff;
+}

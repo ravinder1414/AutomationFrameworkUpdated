@@ -1,0 +1,13 @@
+﻿Job Title, Job Title3, Job Name, Job Desc, JobTitle, JobName, JobDesc
+End Date, EndDate, Last Date, LastDate, LstDate, Created, Created Date, End Date
+Job Title, Job Title3, Job Name, Job Desc, JobTitle, JobName, JobDesc
+End Date, EndDate, Last Date, LastDate, LstDate, Created, Created Date
+Business Unit, Department, Expertise, Grade (Role), Job Title, Location,Status, Team,Timesheet Authoriser,
+Bus Unit, Expertise, Grade, Job Title, Location, Status, Team, Timesheet Authoriser
+
+Location,Business Unit, Contract Type, Department, Expertise, Grade, Cost Code, Guidant Owner, Line Manager, Team, Status, Timesheet Authoriser, External Ref, Reason for Vacancy, Job Title, Location, Bus Unit, Type, Department, Expertise, Grade, Cost Code, Guidant Group Contact, Line Mgr, Team, Status, Timesheet Authoriser, Interviews, External Ref, Reason
+
+Requirement Job Title, Job Title
+Team, Divison
+Type, Contract Type
+Business Unit, Bus Unit

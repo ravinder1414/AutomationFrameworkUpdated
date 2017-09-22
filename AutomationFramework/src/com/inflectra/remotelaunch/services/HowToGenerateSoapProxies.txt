@@ -1,0 +1,6 @@
+wsimport -keep -d "C:\Subversion\Projects\SpiraTeam Add Ons\Trunk\IDE Integration\Eclipse\SpiraMylynConnector\com.inflectra.spirateam.mylyn.core\src" -p com.inflectra.spirateam.mylyn.core.internal.services.soap "C:\Subversion\Projects\SpiraTeam Add Ons\Trunk\IDE Integration\Eclipse\SpiraMylynConnector\com.inflectra.spirateam.mylyn.core\src\com\inflectra\spirateam\mylyn\core\internal\services\ImportExport40.wsdl"
+
+
+Need to change "Name" ---> "Name2" for the RemoteIncidentSeverity and RemoteIncidentPriority and after generating the code, manually fix.
+
+So usually best to save the .WSDL as a flat file that can be tweaked.

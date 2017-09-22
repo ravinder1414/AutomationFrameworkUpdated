@@ -1,0 +1,12 @@
+﻿open###open browser
+type###enter "{0}" in textbox obj={1}
+clickandwait###Click on obj={0}***wait for 5000
+select###select "{0}" from drop down obj={1}
+assertalert###Click on ok in alert
+waitforelementpresent###Wait for 500***verify displayed obj={1}
+verifyelementpresent###verify enable obj={1}
+storetext###store text obj={0} in #{1}
+storetitle###store value obj={0} in #{1}
+waitfortable###Wait for obj={0}
+click###click on obj={0}
+
